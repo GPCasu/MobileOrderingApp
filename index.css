@@ -29,6 +29,9 @@ body {
     flex-direction: column;
     justify-content: center;
     padding: 0 40px;
+    
+    max-width: 600px;  /* stessa larghezza del menu */
+    margin: 0 auto;    /* centra orizzontalmente */
 }
 
 /* Overlay scuro (opzionale ma migliora leggibilità) */
